@@ -25,7 +25,7 @@ class OnBoardingScreen extends StatelessWidget {
                   height: 30,
                 ),
                 buildElevatedButton(
-                  "login",
+                  "loginnnnnn",
                     (){
                     Navigator.of(context).push(MaterialPageRoute(builder: (_)=> LoginScreen()));
                     },
